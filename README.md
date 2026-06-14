@@ -1,7 +1,11 @@
 👋 Hi, I’m Yuka Suzuki  
-I work at the intersection of biomedical data platforms, genomics, and technical product development.  
-My background is in computational biology, with experience spanning analytics, cloud-based systems, and clinical software.  
-I’m currently exploring product strategy, responsible AI, and decision-making in high-stakes environments.  
+
+I work across genomics, biomedical data platforms, and technical product development.  
+
+My background is in computational biology, with experience in analytics, cloud-based systems, and clinical software.  
+
+I’m currently exploring responsible AI, product strategy, and decision-making in high-stakes environments.  
+
 📫 Reach me at yuka.w.suzuki@gmail.com
 
 <!---
