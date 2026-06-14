@@ -6,7 +6,7 @@
 
 ⚙️ Lately, I’ve been exploring responsible AI, product strategy, and decision-making through [**aifit**](https://github.com/yukapooka/ai-fit).
 
-☕ I’m also building hybrid projects like [**coffee-archive-copilot**](https://github.com/yukapooka/coffee-archive-copilot), where personal interests meet product and systems thinking.
+☕ I’m also building hybrid projects like [**coffee-archive-copilot**](https://github.com/yukapooka/coffee-archive-copilot), exploring coffee, human behavior, and patterns through product and systems thinking.
 
 🌐 Portfolio: [yukapooka.github.io](https://yukapooka.github.io)  
 
