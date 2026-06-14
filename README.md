@@ -1,14 +1,9 @@
-👋 Hi, I’m Yuka Suzuki  
+### Hi, I’m Yuka 👋
 
-I work across genomics, biomedical data platforms, and technical product development.  
+🧬 I work across genomics, biomedical data platforms, and technical product development.  
+🧠 My background is in computational biology, and I’m interested in how technical systems shape decisions in practice.  
+⚙️ Lately, I’ve been exploring responsible AI, product strategy, and decision-making through [**aifit**](https://github.com/yukapooka/ai-fit).  
+☕ I’m also building more hybrid projects like [**coffee-archive-copilot**](https://github.com/yukapooka/coffee-archive-copilot), where personal interests meet product and systems thinking.  
 
-My background is in computational biology, with experience in analytics, cloud-based systems, and clinical software.  
-
-I’m currently exploring responsible AI, product strategy, and decision-making in high-stakes environments.  
-
-📫 Reach me at yuka.w.suzuki@gmail.com
-
-<!---
-yukapooka/yukapooka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 Portfolio: [yukapooka.github.io](https://yukapooka.github.io)  
+📫 Reach me at **yuka.w.suzuki@gmail.com**
